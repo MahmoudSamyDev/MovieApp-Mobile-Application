@@ -2,6 +2,55 @@
 
 A modern, feature-rich movie discovery app built with React Native and Expo. Browse trending movies, search for your favorites, and manage your personal watchlist with a beautiful, intuitive interface.
 
+## 📱 Download App
+
+**Try the app now!** Download the latest APK for Android:
+
+📥 **[Download Movie App APK](https://drive.google.com/file/d/1iEDkvJMtNBqFqm4cWyVsaxYP5v9iPNs6/view?usp=sharing)**
+
+_Note: This is an Android APK file. Make sure to enable "Install from unknown sources" in your device settings._
+
+## 📸 Screenshots
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="assets/screenshots/1. Home.jpg" alt="Home Screen" width="250"/>
+<br>
+<b>🏠 Home Screen</b>
+<br>
+<em>Browse trending and latest movies</em>
+</td>
+<td align="center" width="50%">
+<img src="assets/screenshots/2. Search for a movie.jpg" alt="Search Screen" width="250"/>
+<br>
+<b>🔍 Search Functionality</b>
+<br>
+<em>Real-time movie search</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="assets/screenshots/4. Saved movies.jpg" alt="Saved Movies" width="250"/>
+<br>
+<b>💾 Saved Movies</b>
+<br>
+<em>Manage your collection</em>
+</td>
+<td align="center" width="50%">
+<img src="assets/screenshots/3. No Saved Movies.jpg" alt="No Saved Movies" width="250"/>
+<br>
+<b>📭 Empty State</b>
+<br>
+<em>Clean empty design</em>
+</td>
+</tr>
+</table>
+
+</div>
+
 ## ✨ Features
 
 ### 🏠 **Home Screen**
